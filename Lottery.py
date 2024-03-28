@@ -12,12 +12,18 @@ while t!=0:
         break
 
     elif a>n and a<=ul:
-        print('You guessed it too high\n')
+        print('You guessed it too high')
+        t-=1
+        print('Now you have', t, 'chances left.\n')
 
     elif a<n and a>=ll:
-        print('You guessed it too low\n')
+        print('You guessed it too low')
+        t-=1
+        print('Now you have', t, 'chances left.\n')
 
     else:
         print('Please enter within the range\n')
+        t-=1
+        print('Now you have', t, 'chances left.')
 
-    t-=1
+    
