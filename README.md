@@ -16,72 +16,19 @@ Language - Python
   Key Features:- 
 </h2>
 <p>
-  <ul>
-    
-  <li><h3>
-  🎯 Customizable Range: 
-  </li></h3>
-
-  Choose your own range within which to guess random numbers, adding a personalized touch to the game.
-  
-  <li>
-<h3>
-  ⚙️ Adjustable Chances:
-  </li>
-</h3>
- 
-  Set the number of chances according to your preference, making the game suitable for players of all skill levels.
-
-
-       
-  <li>
-  <h3>
-🎮 Interactive Gameplay: 
-    </li>
-  </h3>
-
-  Engage in a fun and interactive game that challenges your guessing skills while providing entertainment and excitement.
-
-
-       
-  <li>
-  <h3>
-👍 User-Friendly Interface: 
-    </li>
-  </h3>
-
-  Enjoy a seamless gaming experience with an intuitive interface that makes navigating the game effortless.
-
-
- 
-  <li>
-  <h3>
-🧠 Educational Value: 
-    </li>
-  </h3>
-
-  Exercise your logical thinking and decision-making skills while having fun, making it an enjoyable learning experience.
-
-
-  <li>
-  <h3>
-🔄 Endless Replayability: 
-    </li>
-  </h3>
-
-  With different ranges and chances to explore, the game offers endless opportunities for replayability and enjoyment.
- 
-  <li>
-  <h3>
-📢 Feedback Mechanism:
-    </li>
-  </h3>
-
-  Receive immediate feedback on your guesses, helping you learn and improve with each attempt.
-
-
-  </ul>
-  
+🎯 Customize the range for guessing random numbers to add a personal touch to the game.
+  <br>
+⚙️ Customize the number of chances to fit your preference, making the game suitable for all skill levels.
+  <br>
+🎮 Play a fun guessing game that's both entertaining and challenging!
+  <br>
+👍 Enjoy effortless gaming with an intuitive interface.
+  <br>
+🧠 Enhance your logical thinking and decision-making skills in a fun and enjoyable way.
+  <br>
+🔄 The game provides endless replayability and opportunities to explore.
+  <br>
+📢 Get instant feedback on your guesses to improve your learning.
 </p>
 
 <h2>
