@@ -6,11 +6,6 @@
     </h2>
 Welcome to the ultimate test of your guessing prowess! Introducing my Python project, a thrilling number guessing game where luck meets skill. Set your own range and challenge yourself to guess the lucky number within a limited number of tries. This is my first project, where I delved into the exciting world of the random module and its functions. I hope you'll enjoy it and give it a try. Are you up for the challenge?
   </p>
-<br>
-Author - Aayush Talukdar
-<br>
-Language - Python
-
 
 <h2>
   Key Features:- 
