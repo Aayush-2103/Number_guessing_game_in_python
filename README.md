@@ -36,3 +36,10 @@ Welcome to the ultimate test of your guessing prowess! Introducing my Python pro
   <li> Double-click on the downloaded file and it will run directly on your command prompt. </li>
 </ol>
 </p>
+
+<h2>
+  📚 Learning Outcomes
+</h2>
+<p>
+  In my Python project, I developed a fun number guessing game, where I learned to utilize the random module and its functions to add dynamic elements to the game. Constructing if-else conditions was key to ensuring the game ran correctly. Additionally, I explored Git Bash and GitHub for the first time, which I believe will be crucial tools in my future career.
+</p>
